@@ -9,4 +9,12 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+## Array
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0704-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
