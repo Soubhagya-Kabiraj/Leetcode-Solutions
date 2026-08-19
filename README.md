@@ -14,6 +14,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0204-count-primes](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0704-binary-search](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -21,6 +22,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0704-binary-search) |
 ## Linked List
 |  |
