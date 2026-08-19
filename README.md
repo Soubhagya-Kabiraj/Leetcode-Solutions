@@ -14,6 +14,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0204-count-primes](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0704-binary-search](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0704-binary-search) |
@@ -68,4 +69,8 @@
 |  |
 | ------- |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
