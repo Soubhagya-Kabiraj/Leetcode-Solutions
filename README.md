@@ -1,13 +1,13 @@
 # <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/fb200cab-9e93-4501-940e-a2d12c52996f" /> LeetCode Solutions
 
-🚀 Welcome to my **LeetCode Solutions** repository!  
-This repository contains my solutions to LeetCode problems, organized by problem number and topic.
+> 🚀 Welcome to my **LeetCode Solutions** repository!  
+> This repository contains my solutions to LeetCode problems, organized by problem number and topic.
 
 ---
 
 ### 🔗 LeetCode Profile
 
-👨‍💻 **My LeetCode Profile:** [Soubhagya Kabiraj](https://leetcode.com/u/rJ2AcTE5sQ/)
+> 👨‍💻 **My LeetCode Profile:** [Soubhagya Kabiraj](https://leetcode.com/u/rJ2AcTE5sQ/)
 
 ---
 
@@ -23,7 +23,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 
 ### 📚 Topics Covered
 
-`Arrays` · `Binary Search` · `Linked List` · `Math` · `Recursion` · `Dynamic Programming` . `Bit Manipulation` · `Two Pointers` · `Number Theory` · `Database`
+> `Arrays` · `Binary Search` · `Linked List` · `Math` · `Recursion` · `Dynamic Programming` . `Bit Manipulation` · `Two Pointers` · `Number Theory` · `Database`
 
 ---
 
