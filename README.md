@@ -31,58 +31,58 @@
 
 <!---LeetCode Topics Start-->
 
-## Database
+### 🗄️ Database · 1 Problem
 
-| Problem |
-| ------- |
-| [1729 - Find Followers Count](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/1729-find-followers-count) |
+| # | Problem | Language |
+|---|---------|----------|
+| 1729 | [Find Followers Count](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/1729-find-followers-count) | Java |
 
-## Math
+### ➗ Math · 2 Problems
 
-| Problem |
-| ------- |
-| [0009 - Palindrome Number](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0009-palindrome-number) |
-| [0509 - Fibonacci Number](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| # | Problem | Language |
+|---|---------|----------|
+| 0009 | [Palindrome Number](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0009-palindrome-number) | Java |
+| 0509 | [Fibonacci Number](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0509-fibonacci-number) | Java |
 
-## Array
+### 📦 Array · 16 Problems
 
-| Problem |
-| ------- |
-| [0027 - Remove Element](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0027-remove-element) |
-| [0035 - Search Insert Position](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0035-search-insert-position) |
-| [0204 - Count Primes](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0204-count-primes) |
-| [0704 - Binary Search](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0704-binary-search) |
-| [3300 - Minimum Element After Replacement With Digit Sum](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
-| [3688 - Bitwise OR of Even Numbers in an Array](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
-| [0026 - Remove Duplicate From Sorted Array](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0026-remove-duplicate-from-sorted-array) |
-| [0001 - Two Sum](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0001-two-sum) |
-| [0053 - Maximum Subarray](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
-| [0283 - Move Zeroes](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0283-move-zeroes) |
-| [0088 - Merge Sorted Array](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
-| [0217 - Contains Duplicate](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
-| [0189 - Rotate Array](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0189-rotate-array) |
-| [0121 - Best Time To Buy And Sell Stock](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
-| [0075 - Sort Colors](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0075-sort-colors) |
-| [0238 - Product Of Array Except Self](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| # | Problem | Language |
+|---|---------|----------|
+| 0027 | [Remove Element](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0027-remove-element) | Java |
+| 0035 | [Search Insert Position](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0035-search-insert-position) | Java |
+| 0204 | [Count Primes](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0204-count-primes) | Java |
+| 0704 | [Binary Search](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0704-binary-search) | Java |
+| 3300 | [Minimum Element After Replacement With Digit Sum](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) | Java |
+| 3688 | [Bitwise OR of Even Numbers in an Array](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) | Java |
+| 0026 | [Remove Duplicate From Sorted Array](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0026-remove-duplicate-from-sorted-array) | Java |
+| 0001 | [Two Sum](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0001-two-sum) | Java |
+| 0053 | [Maximum Subarray](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0053-maximum-subarray) | Java |
+| 0283 | [Move Zeroes](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0283-move-zeroes) | Java |
+| 0088 | [Merge Sorted Array](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0088-merge-sorted-array) | Java |
+| 0217 | [Contains Duplicate](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0217-contains-duplicate) | Java |
+| 0189 | [Rotate Array](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0189-rotate-array) | Java |
+| 0121 | [Best Time To Buy And Sell Stock](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) | Java |
+| 0075 | [Sort Colors](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0075-sort-colors) | Java |
+| 0238 | [Product Of Array Except Self](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) | Java |
 
-## Binary Search
+### 🔍 Binary Search · 2 Problems
 
-| Problem |
-| ------- |
-| [0035 - Search Insert Position](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0035-search-insert-position) |
-| [0704 - Binary Search](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0704-binary-search) |
+| # | Problem | Language |
+|---|---------|----------|
+| 0035 | [Search Insert Position](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0035-search-insert-position) | Java |
+| 0704 | [Binary Search](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0704-binary-search) | Java |
 
-## Linked List
+### 🔗 Linked List · 1 Problem
 
-| Problem |
-| ------- |
-| [0206 - Reverse Linked List](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
+| # | Problem | Language |
+|---|---------|----------|
+| 0206 | [Reverse Linked List](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0206-reverse-linked-list) | Java |
 
-## Recursion
+### 🔄 Recursion · 1 Problem
 
-| Problem |
-| ------- |
-| [0509 - Fibonacci Number](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| # | Problem | Language |
+|---|---------|----------|
+| 0509 | [Fibonacci Number](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0509-fibonacci-number) | Java |
 
 <!---LeetCode Topics End-->
 
