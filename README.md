@@ -59,6 +59,11 @@ This repository contains my solutions to LeetCode problems, organized by problem
 | [0053 - Maximum Subarray](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0283 - Move Zeroes](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0088 - Merge Sorted Array](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0217 - Contains Duplicate](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0189 - Rotate Array](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0121 - Best Time To Buy And Sell Stock](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0075 - Sort Colors](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0238 - Product Of Array Except Self](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 
 ## Binary Search
 
