@@ -42,7 +42,6 @@ This repository contains my solutions to LeetCode problems, organized by problem
 | Problem |
 | ------- |
 | [0009 - Palindrome Number](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0009-palindrome-number) |
-| [0204 - Count Primes](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0509 - Fibonacci Number](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 
 ## Array
@@ -55,6 +54,11 @@ This repository contains my solutions to LeetCode problems, organized by problem
 | [0704 - Binary Search](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [3300 - Minimum Element After Replacement With Digit Sum](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3688 - Bitwise OR of Even Numbers in an Array](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [0026 - Remove Duplicate From Sorted Array](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0026-remove-duplicate-from-sorted-array) |
+| [0001 - Two Sum](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0053 - Maximum Subarray](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0283 - Move Zeroes](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0088 - Merge Sorted Array](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 
 ## Binary Search
 
@@ -74,60 +78,6 @@ This repository contains my solutions to LeetCode problems, organized by problem
 | Problem |
 | ------- |
 | [0509 - Fibonacci Number](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
-
-## Enumeration
-
-| Problem |
-| ------- |
-| [0204 - Count Primes](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0204-count-primes) |
-
-## Number Theory
-
-| Problem |
-| ------- |
-| [0204 - Count Primes](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0204-count-primes) |
-
-## Primality Test
-
-| Problem |
-| ------- |
-| [0204 - Count Primes](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0204-count-primes) |
-
-## Sieve Theory
-
-| Problem |
-| ------- |
-| [0204 - Count Primes](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0204-count-primes) |
-
-## Dynamic Programming
-
-| Problem |
-| ------- |
-| [0509 - Fibonacci Number](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
-
-## Memoization
-
-| Problem |
-| ------- |
-| [0509 - Fibonacci Number](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
-
-## Bit Manipulation
-
-| Problem |
-| ------- |
-| [3688 - Bitwise OR of Even Numbers in an Array](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
-
-## Simulation
-
-| Problem |
-| ------- |
-| [3688 - Bitwise OR of Even Numbers in an Array](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
-
-## Two Pointers
-
-| Problem |
-| ------- |
-| [0027 - Remove Element](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0027-remove-element) |
 
 <!---LeetCode Topics End-->
 
