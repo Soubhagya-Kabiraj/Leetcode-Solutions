@@ -10,6 +10,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0204-count-primes) |
+| [0509-fibonacci-number](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Enumeration
 |  |
 | ------- |
@@ -47,4 +49,12 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0204-count-primes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
