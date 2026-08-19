@@ -19,4 +19,12 @@
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0704-binary-search) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
