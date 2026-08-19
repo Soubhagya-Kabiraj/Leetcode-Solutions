@@ -1,6 +1,6 @@
-# 🚀 LeetCode Solutions
+# <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/fb200cab-9e93-4501-940e-a2d12c52996f" /> LeetCode Solutions
 
-Welcome to my **LeetCode Solutions** repository!  
+🚀 Welcome to my **LeetCode Solutions** repository!  
 This repository contains my solutions to LeetCode problems, organized by problem number and topic.
 
 ---
@@ -18,6 +18,12 @@ This repository contains my solutions to LeetCode problems, organized by problem
 | **Java** | **SQL** | **DSA & Algorithms** | **Interview Preparation** |
 
 > 🚀 Consistently solving problems to strengthen **problem-solving, algorithmic thinking, and coding skills**.
+
+---
+
+### 📚 Topics Covered
+
+`Arrays` · `Binary Search` · `Linked List` · `Math` · `Recursion` · `Dynamic Programming` . `Bit Manipulation` · `Two Pointers` · `Number Theory` · `Database`
 
 ---
 
