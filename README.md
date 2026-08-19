@@ -9,9 +9,11 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0204-count-primes](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0204-count-primes) |
 ## Array
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0704-binary-search](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Binary Search
@@ -25,4 +27,24 @@
 ## Recursion
 |  |
 | ------- |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
