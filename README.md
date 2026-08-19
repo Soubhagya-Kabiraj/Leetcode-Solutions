@@ -3,12 +3,21 @@
 Welcome to my **LeetCode Solutions** repository!  
 This repository contains my solutions to LeetCode problems, organized by problem number and topic.
 
-### 📊 Progress
+---
 
-- 💻 **Language:** Java
-- 🗄️ **Database:** SQL
-- 🧩 **Topics:** DSA, Algorithms & Database
-- 🎯 **Goal:** Consistent problem solving and interview preparation
+### 🔗 LeetCode Profile
+
+👨‍💻 **My LeetCode Profile:** [Soubhagya Kabiraj](https://leetcode.com/u/rJ2AcTE5sQ/)
+
+---
+
+## 📈 Progress & Focus
+
+| 💻 Primary Language | 🗄️ Database | 🧠 Core Focus | 🎯 Goal |
+| :---: | :---: | :---: | :---: |
+| **Java** | **SQL** | **DSA & Algorithms** | **Interview Preparation** |
+
+> 🚀 Consistently solving problems to strengthen **problem-solving, algorithmic thinking, and coding skills**.
 
 ---
 
