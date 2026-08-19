@@ -17,6 +17,7 @@
 | [0204-count-primes](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0704-binary-search](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -57,4 +58,12 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+## Simulation
+|  |
+| ------- |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 <!---LeetCode Topics End-->
