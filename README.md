@@ -44,7 +44,7 @@
 | 0009 | [Palindrome Number](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0009-palindrome-number) | Java |
 | 0509 | [Fibonacci Number](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0509-fibonacci-number) | Java |
 
-### 📦 Array · 16 Problems
+### 📦 Array · 21 Problems
 
 | # | Problem | Language |
 |---|---------|----------|
@@ -64,13 +64,19 @@
 | 0121 | [Best Time To Buy And Sell Stock](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) | Java |
 | 0075 | [Sort Colors](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0075-sort-colors) | Java |
 | 0238 | [Product Of Array Except Self](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) | Java |
+| 0268 | [Missing Number](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0268-missing-number) | Java |
+| 0560 | [Subarray Sum Equals K](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) | Java |
+| 0215 | [Kth Largest Element an an Array](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-array) | Java |
+| 0287 | [Find the Duplicate Number](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) | Java |
+| 0033 | [Search in Rotated Sorted Array](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) | Java |
 
-### 🔍 Binary Search · 2 Problems
+### 🔍 Binary Search · 3 Problems
 
 | # | Problem | Language |
 |---|---------|----------|
 | 0035 | [Search Insert Position](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0035-search-insert-position) | Java |
 | 0704 | [Binary Search](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0704-binary-search) | Java |
+| 0033 | [Search in Rotated Sorted Array](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) | Java |
 
 ### 🔗 Linked List · 1 Problem
 
