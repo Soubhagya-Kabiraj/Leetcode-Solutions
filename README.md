@@ -44,7 +44,7 @@
 | 0009 | [Palindrome Number](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0009-palindrome-number) | Java |
 | 0509 | [Fibonacci Number](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0509-fibonacci-number) | Java |
 
-### 📦 Array · 32 Problems
+### 📦 Array · 34 Problems
 
 | # | Problem | Language |
 |---|---------|----------|
@@ -80,6 +80,8 @@
 | 0240 | [Search in a 2D Matrix II](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) | Java |
 | 0867 | [Transpose Matrix](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0867-transpose-matrix) | Java |
 | 0073 | [Set Matrix Zeroes](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) | Java |
+| 0852 | [Peak Index in a Mountain Array](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) | Java |
+| 0162 | [Find Peak Element](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0162-find-peak-element) | Java |
 
 ### 🧮 2D Array · 6 Problems
 
@@ -99,13 +101,16 @@
 | 4006 | [Count Valid Prefix](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/4006-count-valid-prefix) | Java |
 
 
-### 🔍 Binary Search · 3 Problems
+### 🔍 Binary Search · 6 Problems
 
 | # | Problem | Language |
 |---|---------|----------|
 | 0035 | [Search Insert Position](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0035-search-insert-position) | Java |
 | 0704 | [Binary Search](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0704-binary-search) | Java |
 | 0033 | [Search in Rotated Sorted Array](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) | Java |
+| 0852 | [Peak Index in a Mountain Array](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) | Java |
+| 0162 | [Find Peak Element](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0162-find-peak-element) | Java |
+| 0240 | [Search a 2D Matrix II](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix-ii) | Java |
 
 ### 🔗 Linked List · 1 Problem
 
