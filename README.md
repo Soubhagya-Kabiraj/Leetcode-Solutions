@@ -44,7 +44,7 @@
 | 0009 | [Palindrome Number](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0009-palindrome-number) | Java |
 | 0509 | [Fibonacci Number](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0509-fibonacci-number) | Java |
 
-### 📦 Array · 21 Problems
+### 📦 Array · 27 Problems
 
 | # | Problem | Language |
 |---|---------|----------|
@@ -69,6 +69,12 @@
 | 0215 | [Kth Largest Element an an Array](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-array) | Java |
 | 0287 | [Find the Duplicate Number](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) | Java |
 | 0033 | [Search in Rotated Sorted Array](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) | Java |
+| 0054 | [Spiral Matrix](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0054-spiral-matrix) | Java |
+| 0059 | [Spiral Matrix II](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0054-spiral-matrix-ii) | Java |
+| 0055 | [Jump Game](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0055-jump-game) | Java |
+| 0485 | [Max Consecutive Ones](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) | Java |
+| 1004 | [Max Consecutive Ones III](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) | Java |
+| 0152 | [Maximum Product Subarray](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) | Java |
 
 ### 🔍 Binary Search · 3 Problems
 
