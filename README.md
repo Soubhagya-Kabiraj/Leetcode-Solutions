@@ -23,7 +23,7 @@
 
 ### 📚 Topics Covered
 
-> `Arrays` · `String` . `Binary Search` · `Linked List` · `Math` · `Recursion` · `Dynamic Programming` . `Bit Manipulation` · `Two Pointers` · `Number Theory` · `Database`
+> `Arrays` · `2D Arrays` . `String` . `Binary Search` · `Linked List` · `Math` · `Recursion` · `Dynamic Programming` . `Bit Manipulation` · `Two Pointers` · `Number Theory` · `Database`
 
 ---
 
@@ -44,7 +44,7 @@
 | 0009 | [Palindrome Number](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0009-palindrome-number) | Java |
 | 0509 | [Fibonacci Number](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0509-fibonacci-number) | Java |
 
-### 📦 Array · 27 Problems
+### 📦 Array · 32 Problems
 
 | # | Problem | Language |
 |---|---------|----------|
@@ -92,7 +92,7 @@
 | 0867 | [Transpose Matrix](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0867-transpose-matrix) | Java |
 | 0073 | [Set Matrix Zeroes](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) | Java |
 
-### 🔤 String · 3 Problems
+### 🔤 String · 1 Problems
 
 | # | Problem | Language |
 |---|---------|----------|
