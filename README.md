@@ -75,6 +75,22 @@
 | 0485 | [Max Consecutive Ones](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) | Java |
 | 1004 | [Max Consecutive Ones III](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) | Java |
 | 0152 | [Maximum Product Subarray](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) | Java |
+| 0118 | [Pascal's Triangle](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0118-pascals-triangle) | Java |
+| 0766 | [Toeplitz Matrix](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0766-toeplitz-matrix) | Java |
+| 0240 | [Search in a 2D Matrix II](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) | Java |
+| 0867 | [Transpose Matrix](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0867-transpose-matrix) | Java |
+| 0073 | [Set Matrix Zeroes](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) | Java |
+
+### 🧮 2D Array · 6 Problems
+
+| # | Problem | Language |
+|---|---------|----------|
+| 0054 | [Spiral Matrix](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0054-spiral-matrix) | Java |
+| 0059 | [Spiral Matrix II](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) | Java |
+| 0766 | [Toeplitz Matrix](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0766-toeplitz-matrix) | Java |
+| 0240 | [Search in a 2D Matrix II](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) | Java |
+| 0867 | [Transpose Matrix](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0867-transpose-matrix) | Java |
+| 0073 | [Set Matrix Zeroes](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) | Java |
 
 ### 🔤 String · 3 Problems
 
