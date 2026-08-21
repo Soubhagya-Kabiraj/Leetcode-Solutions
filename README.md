@@ -23,7 +23,7 @@
 
 ### 📚 Topics Covered
 
-> `Arrays` · `Binary Search` · `Linked List` · `Math` · `Recursion` · `Dynamic Programming` . `Bit Manipulation` · `Two Pointers` · `Number Theory` · `Database`
+> `Arrays` · `String` . `Binary Search` · `Linked List` · `Math` · `Recursion` · `Dynamic Programming` . `Bit Manipulation` · `Two Pointers` · `Number Theory` · `Database`
 
 ---
 
@@ -75,6 +75,13 @@
 | 0485 | [Max Consecutive Ones](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) | Java |
 | 1004 | [Max Consecutive Ones III](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) | Java |
 | 0152 | [Maximum Product Subarray](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) | Java |
+
+### 🔤 String · 3 Problems
+
+| # | Problem | Language |
+|---|---------|----------|
+| 4006 | [Count Valid Prefix](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/4006-count-valid-prefix) | Java |
+
 
 ### 🔍 Binary Search · 3 Problems
 
