@@ -1,7 +1,21 @@
-# <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/fb200cab-9e93-4501-940e-a2d12c52996f" /> LeetCode Solutions
+<div align="center">
 
-> 🚀 Welcome to my **LeetCode Solutions** repository!  
-> This repository contains my solutions to LeetCode problems, organized by problem number and topic.
+  <!-- Main Animated Banner / Logo -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FFA116&center=true&vCenter=true&random=false&width=600&height=60&lines=LeetCode+Solutions+%26+Algorithms;Java+%7C+SQL+%7C+DSA;Cracking+Technical+Interviews" alt="Typing Banner" />
+
+  <p align="center">
+    <strong>A curated repository of optimal Data Structures & Algorithms solutions targeting technical interview excellence.</strong>
+  </p>
+
+  <!-- Badges -->
+  <p align="center">
+    <a href="https://leetcode.com/u/rJ2AcTE5sQ/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"></a>
+    <img src="https://img.shields.io/badge/Language-Java_17+-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+    <img src="https://img.shields.io/badge/Database-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+    <img src="https://img.shields.io/badge/Maintainer-Soubhagya%20Kabiraj-blue?style=for-the-badge" alt="Maintainer">
+  </p>
+
+</div>
 
 ---
 
@@ -9,21 +23,31 @@
 
 > 👨‍💻 **My LeetCode Profile:** [Soubhagya Kabiraj](https://leetcode.com/u/rJ2AcTE5sQ/)
 
----
-
-## 📈 Progress & Focus
-
-| 💻 Primary Language | 🗄️ Database | 🧠 Core Focus | 🎯 Goal |
-| :---: | :---: | :---: | :---: |
-| **Java** | **SQL** | **DSA & Algorithms** | **Interview Preparation** |
-
-> 🚀 Consistently solving problems to strengthen **problem-solving, algorithmic thinking, and coding skills**.
 
 ---
+<br/>
 
-### 📚 Topics Covered
+<!-- Stats Grid -->
+<div align="center">
 
-> `Arrays` · `2D Arrays` . `String` . `Binary Search` · `Linked List` · `Math` · `Recursion` · `Dynamic Programming` . `Bit Manipulation` · `Two Pointers` · `Number Theory` · `Database`
+  | 🏆 Primary Language | ⚡ Solved Problems | 🎯 Target | 📌 Profile |
+  | :---: | :---: | :---: | :---: |
+  | **Java** | **40+ Problems** | **FAANG / Top Tech** | [@[rJ2AcTE5sQ]](https://leetcode.com/u/rJ2AcTE5sQ/) |
+
+</div>
+
+---
+
+## 🛠️ Tech Stack & Domain Coverage
+
+<div align="center">
+
+| Core Data Structures | Algorithmic Techniques | Specializations |
+| :--- | :--- | :--- |
+| `Arrays` • `2D Matrices` • `Linked Lists` | `Binary Search` • `Two Pointers` • `Recursion` | `Bit Manipulation` • `Number Theory` |
+| `Strings` • `Hash Tables` | `Dynamic Programming` • `Sliding Window` | `Database Queries (SQL)` |
+
+</div>
 
 ---
 
@@ -37,7 +61,7 @@
 |---|---------|----------|
 | 1729 | [Find Followers Count](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/1729-find-followers-count) | Java |
 
-### ➗ Math · 2 Problems
+### ➗ Math · 3 Problems
 
 | # | Problem | Language |
 |---|---------|----------|
@@ -45,7 +69,7 @@
 | 0509 | [Fibonacci Number](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0509-fibonacci-number) | Java |
 | 0007 | [Reverse Integer](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0007-reverse-integer) | Java |
 
-### 📦 Array · 34 Problems
+### 📦 Array · 40 Problems
 
 | # | Problem | Language |
 |---|---------|----------|
@@ -141,3 +165,13 @@
 I use this repository to practice **Data Structures & Algorithms**, improve problem-solving skills, and prepare for technical interviews.
 
 > 💡 New solutions will be added regularly as I continue my LeetCode journey.
+
+
+
+<ElicitationsGroup message="Next steps for your repository:">
+
+  <Elicitation label="Set up automatic README updates via GitHub Actions" query="How can I set up a GitHub Action to automatically sync LeetCode solutions or update my README?" />
+
+  <Elicitation label="Add a LeetCode stats card directly to the README" query="How can I embed a dynamic LeetCode statistics card in my GitHub README?" />
+
+</ElicitationsGroup>
