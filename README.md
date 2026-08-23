@@ -43,6 +43,7 @@
 |---|---------|----------|
 | 0009 | [Palindrome Number](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0009-palindrome-number) | Java |
 | 0509 | [Fibonacci Number](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0509-fibonacci-number) | Java |
+| 0007 | [Reverse Integer](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0007-reverse-integer) | Java |
 
 ### 📦 Array · 34 Problems
 
