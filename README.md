@@ -82,8 +82,12 @@
 | 0240 | [Search in a 2D Matrix II](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) | Java |
 | 0867 | [Transpose Matrix](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0867-transpose-matrix) | Java |
 | 0073 | [Set Matrix Zeroes](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) | Java |
+| 0048 | [Rotate Image](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0048-rotate-image) | Java |
 | 0852 | [Peak Index in a Mountain Array](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) | Java |
 | 0162 | [Find Peak Element](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0162-find-peak-element) | Java |
+| 0349 | [Intersection of Two Arrays](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) | Java |
+| 1748 | [Sum of Unique Elements](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) | Java |
+| 0169 | [Majority Element](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0169-majority-element) | Java |
 
 ### 🧮 2D Array · 6 Problems
 
@@ -95,6 +99,7 @@
 | 0240 | [Search in a 2D Matrix II](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) | Java |
 | 0867 | [Transpose Matrix](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0867-transpose-matrix) | Java |
 | 0073 | [Set Matrix Zeroes](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) | Java |
+| 0048 | [Rotate Image](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0048-rotate-image) | Java |
 
 ### 🔤 String · 1 Problems
 
