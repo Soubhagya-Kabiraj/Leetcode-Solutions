@@ -66,6 +66,7 @@
 | 0075 | [Sort Colors](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0075-sort-colors) | Java |
 | 0238 | [Product Of Array Except Self](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) | Java |
 | 0268 | [Missing Number](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0268-missing-number) | Java |
+| 0136 | [Single Number](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0136-single-number) | Java |
 | 0560 | [Subarray Sum Equals K](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) | Java |
 | 0215 | [Kth Largest Element an an Array](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-array) | Java |
 | 0287 | [Find the Duplicate Number](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) | Java |
