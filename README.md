@@ -85,6 +85,7 @@
 | 0048 | [Rotate Image](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0048-rotate-image) | Java |
 | 0852 | [Peak Index in a Mountain Array](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) | Java |
 | 0162 | [Find Peak Element](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0162-find-peak-element) | Java |
+| 1752 | [Check if Array is sorted and rotated](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/01752-check-if-array-is-sorted-and-rotated) | Java |
 | 0349 | [Intersection of Two Arrays](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) | Java |
 | 1748 | [Sum of Unique Elements](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) | Java |
 | 0169 | [Majority Element](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0169-majority-element) | Java |
