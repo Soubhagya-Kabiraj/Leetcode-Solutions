@@ -61,13 +61,17 @@
 |---|---------|----------|
 | 1729 | [Find Followers Count](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/1729-find-followers-count) | Java |
 
-### ➗ Math · 3 Problems
+### ➗ Math · 7 Problems
 
 | # | Problem | Language |
 |---|---------|----------|
 | 0009 | [Palindrome Number](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0009-palindrome-number) | Java |
 | 0509 | [Fibonacci Number](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0509-fibonacci-number) | Java |
 | 0007 | [Reverse Integer](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0007-reverse-integer) | Java |
+| 0066 | [Plus One](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0066-plus-one) | Java |
+| 0202 | [Happy Number](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0202-happy-number) | Java |
+| 2520 | [Count the Digits That Divide a Number](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) | Java |
+| 0412 | [Fizz Buzz](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0412-fizz-buzz) | Java |
 
 ### 📦 Array · 40 Problems
 
@@ -135,7 +139,7 @@
 | 0344 | [Reverse String](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0344-reverse-string) | Java |
 | 0242 | [Valid Anagram](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0242-valid-anagram) | Java |
 
-### #️⃣ Hashing · 6 Problems
+### #️⃣ Hashing · 7 Problems
 
 | # | Problem | Language |
 |---|---------|----------|
@@ -145,6 +149,7 @@
 | 0169 | [Majority Element](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0169-majority-element) | Java |
 | 0349 | [Intersection of Two Arrays](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) | Java |
 | 1748 | [Sum of Unique Elements](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) | Java |
+| 0202 | [Happy Number](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0202-happy-number) | Java |
 
 ### 🔍 Binary Search · 6 Problems
 
