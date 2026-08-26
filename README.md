@@ -126,12 +126,25 @@
 | 0073 | [Set Matrix Zeroes](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) | Java |
 | 0048 | [Rotate Image](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0048-rotate-image) | Java |
 
-### 🔤 String · 1 Problems
+### 🔤 String · 4 Problems
 
 | # | Problem | Language |
 |---|---------|----------|
 | 4006 | [Count Valid Prefix](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/4006-count-valid-prefix) | Java |
+| 0014 | [Longest Common Prefix](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0014-longest-common-prefix) | Java |
+| 0344 | [Reverse String](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0344-reverse-string) | Java |
+| 0242 | [Valid Anagram](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0242-valid-anagram) | Java |
 
+### #️⃣ Hashing · 6 Problems
+
+| # | Problem | Language |
+|---|---------|----------|
+| 0001 | [Two Sum](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0001-two-sum) | Java |
+| 0217 | [Contains Duplicate](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0217-contains-duplicate) | Java |
+| 0560 | [Subarray Sum Equals K](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) | Java |
+| 0169 | [Majority Element](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0169-majority-element) | Java |
+| 0349 | [Intersection of Two Arrays](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) | Java |
+| 1748 | [Sum of Unique Elements](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) | Java |
 
 ### 🔍 Binary Search · 6 Problems
 
