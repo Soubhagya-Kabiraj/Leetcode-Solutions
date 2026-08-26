@@ -61,7 +61,7 @@
 |---|---------|----------|
 | 1729 | [Find Followers Count](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/1729-find-followers-count) | Java |
 
-### ➗ Math · 7 Problems
+### ➗ Math · 9 Problems
 
 | # | Problem | Language |
 |---|---------|----------|
@@ -72,6 +72,8 @@
 | 0202 | [Happy Number](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0202-happy-number) | Java |
 | 2520 | [Count the Digits That Divide a Number](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) | Java |
 | 0412 | [Fizz Buzz](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0412-fizz-buzz) | Java |
+| 0231 | [Power of Two](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0231-power-of-two) | Java |
+| 0326 | [Power of Three](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0326-power-of-three) | Java |
 
 ### 📦 Array · 40 Problems
 
