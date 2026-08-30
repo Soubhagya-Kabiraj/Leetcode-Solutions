@@ -78,7 +78,7 @@
 | 0507 | [Perfect Number](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0507-perfect-number) | Java |
 
 
-### 📦 Array · 40 Problems
+### 📦 Array · 42 Problems
 
 | # | Problem | Language |
 |---|---------|----------|
@@ -122,8 +122,10 @@
 | 0349 | [Intersection of Two Arrays](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) | Java |
 | 1748 | [Sum of Unique Elements](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) | Java |
 | 0169 | [Majority Element](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0169-majority-element) | Java |
+| 4034 | [Minimum Bishop Moves to Reach Target](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/4034-minimum-bishop-moves-to-reach-target) | Java |
+| 4038 | [Count Integers Appearing in a Single Block](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/4038-count-integers-appearing-in-a-single-block) | Java |
 
-### 🧮 2D Array · 6 Problems
+### 🧮 2D Array · 8 Problems
 
 | # | Problem | Language |
 |---|---------|----------|
@@ -134,6 +136,7 @@
 | 0867 | [Transpose Matrix](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0867-transpose-matrix) | Java |
 | 0073 | [Set Matrix Zeroes](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) | Java |
 | 0048 | [Rotate Image](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0048-rotate-image) | Java |
+| 4034 | [Minimum Bishop Moves to Reach Target](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/4034-minimum-bishop-moves-to-reach-target) | Java |
 
 ### 🔤 String · 4 Problems
 
