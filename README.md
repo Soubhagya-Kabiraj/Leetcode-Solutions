@@ -28,30 +28,27 @@
 <!-- Stats Grid -->
 <div>
   
-## Profile Overview
+## 📊 Overview & Profile
   
   | 🏆 Primary Language | ⚡ Solved Problems | 🎯 Target | 📌 Profile |
   | :---: | :---: | :---: | :---: |
-  | **Java** | **40+ Problems** | **FAANG / Top Tech** | [@[rJ2AcTE5sQ]](https://leetcode.com/u/rJ2AcTE5sQ/) |
+  | **Java** | **70+ Problems Unique** | **FAANG / Top Tech** | [@[rJ2AcTE5sQ]](https://leetcode.com/u/rJ2AcTE5sQ/) |
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Domain Coverage
+## 🛠️ Domain & Algorithmic Coverage
 
-<div align="center">
+> Focused on problem-solving patterns and foundational computer science concepts required for technical interviews.
 
-| Core Data Structures | Algorithmic Techniques | Specializations |
-| :--- | :--- | :--- |
-| `Arrays` • `2D Matrices` • `Linked Lists` | `Binary Search` • `Two Pointers` • `Recursion` | `Bit Manipulation` • `Number Theory` |
-| `Strings` • `Hash Tables` | `Dynamic Programming` • `Sliding Window` | `Database Queries (SQL)` |
-
-</div>
+* **Core Data Structures:** `Arrays` ｜ `2D Matrices` ｜ `Linked Lists` ｜ `Strings` ｜ `Hash Tables`
+* **Algorithmic Paradigms:** `Binary Search` ｜ `Two Pointers` ｜ `Sliding Window` ｜ `Recursion` ｜ `Dynamic Programming`
+* **Domain Specializations:** `Bit Manipulation` ｜ `Number Theory` ｜ `Database Queries (SQL)`
 
 ---
 
-## 🧠 LeetCode Topics
+## 🧠 LeetCode Topics · 73 Total Problems
 
 <!---LeetCode Topics Start-->
 
