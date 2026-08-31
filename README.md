@@ -185,6 +185,7 @@
 | # | Problem | Language | Difficulty |
 |---|---------|----------|:---:|
 | 0206 | [Reverse Linked List](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0206-reverse-linked-list) | Java | `Easy` |
+| 0002 | [Add Two Numbers](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0002-add-two-numbers) | Java | `Medium` |
 
 ### 🔄 Recursion · 1 Problem
 
