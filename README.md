@@ -72,7 +72,7 @@
 | 0596 | [Classes More Than 5 Students](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0596-classes-more-than-5-students) | SQL | `Easy` |
 | 1729 | [Find Followers Count](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/1729-find-followers-count) | SQL | `Easy` |
 
-### ➗ Math · 11 Problems
+### ➗ Math · 12 Problems
 
 | # | Problem | Language | Difficulty |
 |---|---------|----------|:---:|
@@ -87,6 +87,7 @@
 | 0326 | [Power of Three](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0326-power-of-three) | Java | `Easy` |
 | 0258 | [Add Digits](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0258-add-digits) | Java | `Easy` |
 | 0507 | [Perfect Number](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0507-perfect-number) | Java | `Easy` |
+| 1342 | [Number of Steps to Reduce a Number to Zero](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) | Java | `Easy` |
 
 ### 📦 Array · 42 Problems
 
@@ -180,7 +181,7 @@
 | 0162 | [Find Peak Element](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0162-find-peak-element) | Java | `Medium` |
 | 0240 | [Search a 2D Matrix II](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix-ii) | Java | `Medium` |
 
-### 🔗 Linked List · 1 Problem
+### 🔗 Linked List · 2 Problem
 
 | # | Problem | Language | Difficulty |
 |---|---------|----------|:---:|
