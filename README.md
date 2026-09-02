@@ -52,7 +52,7 @@
 
 <!---LeetCode Topics Start-->
 
-### 🗄️ Database · 15 Problems
+### 🗄️ Database · 17  Problems
 
 | # | Problem | Language | Difficulty |
 |---|---------|----------|:---:|
@@ -69,10 +69,12 @@
 | 0620 | [Not Boring Movies](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0620-not-boring-movies) | SQL | `Easy` |
 | 1075 | [Project Employees I](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/1075-project-employees-i) | SQL | `Easy` |
 | 2356 | [Number of Unique Subjects Taught by Each Teacher](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) | SQL | `Easy` |
-| 0596 | [Classes More Than 5 Students](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0596-classes-more-than-5-students) | SQL | `Easy` |
+| 0596 | [Classes With at least 5 students](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0596-classes-with-at-least-5-students) | SQL | `Easy` |
 | 1729 | [Find Followers Count](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/1729-find-followers-count) | SQL | `Easy` |
+| 0181 | [Employees Earning More Than Their Managers](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0181-employees-earning-more-than-their-managers) | SQL | `Easy` |
+| 0183 | [Customers Who Never Order](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0183-customers-who-never-order) | SQL | `Easy` |
 
-### ➗ Math · 12 Problems
+### ➗ Math · 15 Problems
 
 | # | Problem | Language | Difficulty |
 |---|---------|----------|:---:|
@@ -88,8 +90,12 @@
 | 0258 | [Add Digits](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0258-add-digits) | Java | `Easy` |
 | 0507 | [Perfect Number](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0507-perfect-number) | Java | `Easy` |
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) | Java | `Easy` |
+| 2169 | [Count Operations to Obtain Zero](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/2169-count-operations-to-obtain-zero) | Java |
+| 2139 | [Minimum Moves to Reach Target Score](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/2139-minimum-moves-to-reach-target-score) | Java |
+| 0070 | [Climbing Stairs](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0070-climbing-stairs) | Java |
 
-### 📦 Array · 42 Problems
+
+### 📦 Array · 43 Problems
 
 | # | Problem | Language | Difficulty |
 |---|---------|----------|:---:|
@@ -135,6 +141,7 @@
 | 0169 | [Majority Element](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0169-majority-element) | Java | `Easy` |
 | 4034 | [Minimum Bishop Moves to Reach Target](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/4034-minimum-bishop-moves-to-reach-target) | Java | `Medium` |
 | 4038 | [Count Integers Appearing in a Single Block](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/4038-count-integers-appearing-in-a-single-block) | Java | `Easy` |
+| 0119 | [Pascal's Triangle II](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) | Java | `Easy` |
 
 ### 🧮 2D Array · 8 Problems
 
@@ -193,6 +200,14 @@
 | # | Problem | Language | Difficulty |
 |---|---------|----------|:---:|
 | 0509 | [Fibonacci Number](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0509-fibonacci-number) | Java | `Easy` |
+| 0070 | [Climbing Stairs](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0070-climbing-stairs) | Java | `Easy` |
+
+### 🧩 Dynamic Programming · 1 Problem
+
+| # | Problem | Language |
+|:---:|:---|:---:|
+| 0509 | [Fibonacci Number](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0509-fibonacci-number) | Java | `Easy` |
+| 0070 | [Climbing Stairs](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0070-climbing-stairs) | Java |
 
 <!---LeetCode Topics End-->
 
