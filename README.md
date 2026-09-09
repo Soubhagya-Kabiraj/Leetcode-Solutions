@@ -74,7 +74,7 @@
 | 0181 | [Employees Earning More Than Their Managers](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0181-employees-earning-more-than-their-managers) | SQL | `Easy` |
 | 0183 | [Customers Who Never Order](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0183-customers-who-never-order) | SQL | `Easy` |
 
-### ➗ Math · 15 Problems
+### ➗ Math · 16 Problems
 
 | # | Problem | Language | Difficulty |
 |---|---------|----------|:---:|
@@ -93,6 +93,7 @@
 | 2169 | [Count Operations to Obtain Zero](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/2169-count-operations-to-obtain-zero) | Java |
 | 2139 | [Minimum Moves to Reach Target Score](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/2139-minimum-moves-to-reach-target-score) | Java |
 | 0070 | [Climbing Stairs](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0070-climbing-stairs) | Java |
+| 3870 | [Count Commas in Range](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/3870-count-commas-in-range) | Java |
 
 
 ### 📦 Array · 43 Problems
