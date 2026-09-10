@@ -90,10 +90,10 @@
 | 0258 | [Add Digits](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0258-add-digits) | Java | `Easy` |
 | 0507 | [Perfect Number](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0507-perfect-number) | Java | `Easy` |
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) | Java | `Easy` |
-| 2169 | [Count Operations to Obtain Zero](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/2169-count-operations-to-obtain-zero) | Java |
-| 2139 | [Minimum Moves to Reach Target Score](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/2139-minimum-moves-to-reach-target-score) | Java |
-| 0070 | [Climbing Stairs](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0070-climbing-stairs) | Java |
-| 3870 | [Count Commas in Range](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/3870-count-commas-in-range) | Java |
+| 2169 | [Count Operations to Obtain Zero](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/2169-count-operations-to-obtain-zero) | Java | `Easy` |
+| 2139 | [Minimum Moves to Reach Target Score](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/2139-minimum-moves-to-reach-target-score) | Java | `Easy` |
+| 0070 | [Climbing Stairs](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0070-climbing-stairs) | Java | `Easy` |
+| 3870 | [Count Commas in Range](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/3870-count-commas-in-range) | Java | `Easy` |
 
 
 ### 📦 Array · 43 Problems
