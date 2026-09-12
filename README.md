@@ -224,8 +224,10 @@ Leetcode-Solutions/
 │   ├── Solution.java
 │   └── README.md
 ├── 1757-recyclable-and-low-fat-products/
-│   └── solution.sql
-└── README.md
+│   ├── Solution.sql
+│   └── README.md
+├── README.md
+└── stats.json
 ```
 
 ---
