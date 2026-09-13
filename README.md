@@ -157,7 +157,7 @@
 | 0048 | [Rotate Image](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0048-rotate-image) | Java | `Medium` |
 | 4034 | [Minimum Bishop Moves to Reach Target](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/4034-minimum-bishop-moves-to-reach-target) | Java | `Medium` |
 
-### 🔤 String · 4 Problems
+### 🔤 String · 5 Problems
 
 | # | Problem | Language | Difficulty |
 |---|---------|----------|:---:|
@@ -165,6 +165,7 @@
 | 0014 | [Longest Common Prefix](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0014-longest-common-prefix) | Java | `Easy` |
 | 0344 | [Reverse String](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0344-reverse-string) | Java | `Easy` |
 | 0242 | [Valid Anagram](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/0242-valid-anagram) | Java | `Easy` |
+| 2390 | [Removing Stars from a String](https://github.com/Soubhagya-Kabiraj/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) | Java | `Easy` |
 
 ### #️⃣ Hashing · 7 Problems
 
